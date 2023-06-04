@@ -1,0 +1,17 @@
+.container{
+   
+    width: 100%;
+}
+.search {
+    margin: 30px auto;
+    max-width: 80%;
+}
+.input{
+    font-size: 20px;
+    height: 40px;
+    width: 100%;
+    background-color: #ffffff;
+    color: #898f9c;
+    text-align: center;
+    padding: 10px 15px;  
+}
